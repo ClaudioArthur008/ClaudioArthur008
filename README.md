@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects for pratice so that i can be a better developper
 - 📫 How to reach me : @claudio.lurann@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am an Introvert overthinker, but i'm so sociable.
+- ⚡ Fun fact: I'm an introverted overthinker, but ironically, I'm also quite sociable.
 
 <!---
 ClaudioArthur008/ClaudioArthur008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
